@@ -1,0 +1,37 @@
+
+.error{
+  border-color: red !important;
+}
+
+.red{
+  color:red;
+}
+.main-tab{
+  background-color:gray 
+}
+
+.nav-link  {
+    color: white;
+}
+.user-name{
+  margin-top: 2px;
+}
+.container{
+  margin-top: 10px;
+}
+.card-repo{
+  margin-top: 10px;
+  height: 120px;
+}
+.repo-text{
+  margin: 10px 10px;
+}
+.card-repo-paragraph{
+  margin-left: 10px;
+  color: gray;
+  font-size: 15px;
+}
+a {
+  text-decoration: none;
+  color: #0366d6;
+}
